@@ -219,7 +219,7 @@ Aspiring Data Analyst
 - SQL
 - Python
 - Data Visualization
-- Business Analytics
+
 
 ---
 
