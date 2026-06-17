@@ -1,8 +1,8 @@
 # Excel-Sales-Dashboard
 <img width="338" height="236" alt="Excel_sales" src="https://github.com/user-attachments/assets/b8c5d207-f015-44ba-b368-489c81a14a28" />
-# 📊 Enterprise Sales Dashboard
+# Enterprise Sales Dashboard
 
-## 📌 Project Overview
+## Project Overview
 
 The Enterprise Sales Dashboard is an advanced Excel-based business intelligence solution designed to transform raw sales data into actionable insights. This dashboard enables stakeholders, managers, and business analysts to monitor sales performance, profitability, customer behavior, product trends, and regional performance through interactive visualizations and KPI tracking.
 
@@ -10,7 +10,7 @@ Built using Microsoft Excel, Pivot Tables, Pivot Charts, Slicers, and Data Analy
 
 ---
 
-## 🎯 Business Objective
+## Business Objective
 
 The primary goal of this dashboard is to:
 
@@ -23,7 +23,7 @@ The primary goal of this dashboard is to:
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 ### Executive Dashboard
 Provides a high-level summary of business performance through key performance indicators (KPIs).
@@ -98,7 +98,7 @@ Business Benefits:
 
 ---
 
-## 🛠 Tools & Technologies Used
+## Tools & Technologies Used
 
 ### Microsoft Excel
 - Pivot Tables
@@ -118,7 +118,7 @@ Business Benefits:
 
 ---
 
-## 📂 Workbook Structure
+## Workbook Structure
 
 | Sheet Name | Purpose |
 |------------|----------|
@@ -132,7 +132,7 @@ Business Benefits:
 
 ---
 
-## 📈 Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 The dashboard tracks:
 
@@ -146,7 +146,7 @@ The dashboard tracks:
 
 ---
 
-## 📋 Dataset Information
+## Dataset Information
 
 The dataset contains approximately 3,000 sales transactions with the following fields:
 
@@ -162,7 +162,7 @@ The dataset contains approximately 3,000 sales transactions with the following f
 
 ---
 
-## 💡 Business Insights Generated
+## Business Insights Generated
 
 This dashboard helps answer critical business questions such as:
 
@@ -175,7 +175,7 @@ This dashboard helps answer critical business questions such as:
 
 ---
 
-## 🚀 Project Highlights
+## Project Highlights
 
 ✔ Interactive Dashboard Design
 
@@ -193,7 +193,7 @@ This dashboard helps answer critical business questions such as:
 
 ---
 
-## 🎓 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
 - Data Analysis
@@ -208,7 +208,7 @@ This dashboard helps answer critical business questions such as:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 ### Mohit Yadav
 Aspiring Data Analyst
@@ -223,7 +223,7 @@ Aspiring Data Analyst
 
 ---
 
-## ⭐ Project Value
+## Project Value
 
 This project showcases how Microsoft Excel can be transformed into a powerful Business Intelligence tool capable of delivering executive-level reporting and actionable business insights without requiring advanced BI software.
 
