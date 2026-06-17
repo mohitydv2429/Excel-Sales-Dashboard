@@ -1,5 +1,6 @@
-# Excel-Sales-Dashboard
-<img width="338" height="236" alt="Excel_sales" src="https://github.com/user-attachments/assets/b8c5d207-f015-44ba-b368-489c81a14a28" />
+# Excel-Sales-Dashboard 
+<img width="1366" height="768" alt="excel sales" src="https://github.com/user-attachments/assets/a94457f3-f40a-4d21-830d-e8f638aad8fb" />
+
 # Enterprise Sales Dashboard
 
 ## Project Overview
